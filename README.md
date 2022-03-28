@@ -1,6 +1,6 @@
-### Welcome to my profile	👋 
+## Welcome to my profile	👋 
 
-## 📋 About Me
+### 📋 About Me
 
 - 💻 Developer (in training)
 - 🌱 I’m currently learning **Java / Angular** and related technologies 
@@ -12,7 +12,8 @@
 - 😄 Pronouns: She/Her
 - 🐶 Dog person 
 
-## 🔧 Skills & tools 
+---
+### 🔧 Skills & tools 
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
@@ -25,7 +26,7 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 </p>
 
-
+---
 Thanks for reading ! Have a lovely day ☺️
 
 
