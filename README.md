@@ -7,13 +7,13 @@
 - 🔭 I’m currently working on my portfolio 
 - 🌍 I'm living in **Liège, Belgium**
 - 📧 How to reach me: <estellehuynen@outlook.be>
-- 📄 Visit my <a href="www.linkedin.com/in/estelle-huynen" title="Estelle Huynen LinkedIn profile">LinkedIn</a> profile
+- 📄 Visit my <a href="www.linkedin.com/in/estelle-huynen/" title="Estelle Huynen LinkedIn profile">LinkedIn</a> profile
 - 🌐 Have a look at my <a href="https://esthuy.github.io/" title="Estelle Huynen Portfolio">portfolio website</a>
 - 😄 Pronouns: She/Her
 - 🐶 Dog person 
 
 ---
-### 🔧 Skills & tools 
+### 🔑 Skills & tools 
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
