@@ -1,16 +1,29 @@
-### Hi there 👋
+### Welcome to my profile	👋 
 
-<!--
-**Esthuy/esthuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 About Me
 
-Here are some ideas to get you started:
+- 💻 Developer (in training)
+- 🌱 I’m currently learning **Java / Angular** and related technologies 
+- 🔭 I’m currently working on my portfolio 
+- 🌍 I'm living in **Liège, Belgium**
+- 📧 How to reach me: <estellehuynen@outlook.be>
+- 📄 Visit my <a href="www.linkedin.com/in/estelle-huynen" title="Estelle Huynen LinkedIn profile">LinkedIn</a> profile
+- 🌐 Have a look at my <a href="https://esthuy.github.io/" title="Estelle Huynen Portfolio">portfolio website</a>
+- 😄 Pronouns: She/Her
+- 🐶 Dog person 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & tools 
+
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img width="4%" src="www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+
+
+Thanks for reading ! Have a lovely day ☺️
+
+
