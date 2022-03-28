@@ -3,7 +3,7 @@
 ### 📋 About Me
 
 - 💻 Developer (in training)
-- 🌱 I’m currently learning **Java / Angular** and related technologies 
+- 🌱 I’m learning **Java / Angular** and related technologies 
 - 🔭 I’m currently working on my portfolio 
 - 🌍 I'm living in **Liège, Belgium**
 - 📧 How to reach me: <estellehuynen@outlook.be>
@@ -15,7 +15,6 @@
 ---
 ### 🔑 Skills & tools 
 
-<p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
@@ -24,7 +23,7 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-</p>
+
 
 ---
 Thanks for reading ! Have a lovely day ☺️
