@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 💻 Developer (in training)
+- 💻 Java / Angular developer
 - 🌱 I’m learning **Java / Angular** and related technologies 
 - 🔭 I’m currently working on my portfolio 
 - 🌍 I'm living in **Liège, Belgium**
