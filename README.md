@@ -2,8 +2,7 @@
 
 ### About Me
 
-- 💻 Java / Angular developer
-- 🌱 I’m learning **Java / Angular** and related technologies 
+- 💻 **Java / Angular** developer
 - 🔭 I’m currently working on my portfolio 
 - 🌍 I'm living in **Liège, Belgium**
 - 📧 How to reach me: <estellehuynen@outlook.be>
