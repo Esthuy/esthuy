@@ -3,7 +3,7 @@
 ### About Me
 
 - 💻 **Java / Angular** developer
-- 🔭 I’m currently working on my portfolio 
+- 🔭 I’m currently working on a special project, I will share it soon ! 
 - 🌍 I'm living in **Liège, Belgium**
 - 📧 How to reach me: <estellehuynen@outlook.be>
 - 📄 Visit my <a href="https://www.linkedin.com/in/estelle-huynen/" title="Estelle Huynen LinkedIn profile">LinkedIn</a> profile
